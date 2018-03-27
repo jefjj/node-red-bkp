@@ -1,0 +1,10 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red-dashboard": "~2.8.1",
+    "node-red-node-mysql": "0.0.16",
+    "node-red-node-random": "~0.1.0"
+  }
+}
